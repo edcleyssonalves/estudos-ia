@@ -25,7 +25,7 @@ chat_template = ChatPromptTemplate.from_messages(  # base de um chatbot com inte
     ]
 )
 
-prompt = chat_template.format_messages(regiao='Sul')
+prompt = chat_template.format_messages(regiao='Nordeste')
 
 response = model.invoke(prompt)
 
