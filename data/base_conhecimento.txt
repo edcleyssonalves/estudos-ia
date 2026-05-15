@@ -1,0 +1,31 @@
+BASE DE CONHECIMENTO - HTTP E HTTPS
+
+1. O que é HTTP
+HTTP é um protocolo de comunicação usado para transferência de dados na web.
+
+2. Como funciona uma requisição HTTP
+O navegador envia uma requisição ao servidor e recebe uma resposta.
+
+3. Métodos HTTP
+GET, POST, PUT, DELETE e PATCH são métodos comuns.
+
+4. Estrutura de uma requisição
+Uma requisição possui método, URL, headers e body.
+
+5. Headers HTTP
+Headers carregam informações adicionais sobre a comunicação.
+
+6. Códigos de status
+Exemplos: 200, 301, 403, 404 e 500.
+
+7. O que é HTTPS
+HTTPS é a versão segura do HTTP usando TLS/SSL.
+
+8. Vantagens do HTTPS
+Criptografia, integridade e autenticação.
+
+9. Certificados digitais
+Comprovam a identidade do servidor.
+
+10. Diferença entre HTTP e HTTPS
+HTTPS adiciona criptografia ao HTTP.
